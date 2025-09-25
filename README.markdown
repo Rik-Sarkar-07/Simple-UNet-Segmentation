@@ -25,7 +25,7 @@ Simple-UNet-Segmentation/
 ### Cloning the Repository
 First, clone the repository locally:
 ```bash
-git clone https://github.com/your-username/Simple-UNet-Segmentation
+git clone https://github.com/Rik-Sarkar-07/Simple-UNet-Segmentation
 cd Simple-UNet-Segmentation
 ```
 
